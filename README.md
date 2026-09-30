@@ -14,9 +14,6 @@
 
 ![Vettora UI Walkthrough Preview](./assets/demo_preview.gif)
 
-> 📹 **Watch Full Walkthrough Video**: [`assets/demo_walkthrough.mp4`](./assets/demo_walkthrough.mp4)  
-> 📄 **Executive PDF Summary**: [`hackathon_information/Project_Summary_1Page.pdf`](./hackathon_information/Project_Summary_1Page.pdf)  
-> 📑 **Full Technical Report**: [`hackathon_information/Nexora_Brocode_Project_Summary_Report.pdf`](./hackathon_information/Nexora_Brocode_Project_Summary_Report.pdf)
 
 ---
 
@@ -128,8 +125,6 @@ nexora/
 │   └── dummy_resumes/             # Multidisciplinary candidate resumes
 ├── hackathon_information/         # Official hackathon prompts & summary PDFs
 │   ├── nexora_Hackathon_Problem_Statement.pdf
-│   ├── Nexora_Brocode_Project_Summary_Report.pdf
-│   ├── Project_Summary_1Page.pdf
 │   ├── generate_summary_pdf.py
 │   └── generate_1page_summary_pdf.py
 ├── assets/                        # Walkthrough video, GIF, and thumbnails
